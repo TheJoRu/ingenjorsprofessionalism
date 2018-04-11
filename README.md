@@ -2,5 +2,5 @@
 
 ## TDDD94
 
-* Social kompetens, skrivuppgift
+* Social kompetens, skrivuppgift (Interpersonellt Ledarskap)
 * Etik, skrivuppgift
