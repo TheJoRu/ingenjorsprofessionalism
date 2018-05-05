@@ -1,4 +1,4 @@
-# Ericsson Code of Condust, för TDDD94 (Etik)
+# Ericsson Code of Conduct, för TDDD94 (Etik)
 
 - I allmänhet: Ericsson will skydda mänskliga rättigheter, främja rättvisa och säkra arbetsförhållanden, vara ansvarsfulla jämtemot miljön och allmänt hög etisk standard.
 - Deras Code of Conduct är baserad på FN:s Global Compact-initiativ med tio principer. Det innebär att Ericsson stödjer principer med avseende på exempelvis tvångsarbete (inte tillåtet), diskriminering, miljöfaktorer och antikorruption såsom att inte tillåta mutor.
